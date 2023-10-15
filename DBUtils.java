@@ -1,4 +1,2 @@
-hello
-this file contains the db related logic
-bs kr bhaiiiii
-updating in dev br
+hi im updating this in dev br..
+
